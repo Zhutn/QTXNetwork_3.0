@@ -24,6 +24,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 * `--output-1D` Output the results of HendersonIII F values for 1D scan (--output-1D "any integer"). (default, False).
 
+**Choose a suitable version to conduct the analysis**
+Using the CPU parallel version
+```
+cd CPU
+```
+Using the GPU parallel version
+```
+cd GPU
+```
+
 **Examples forQTXNetwork3.0**
 
 ```
