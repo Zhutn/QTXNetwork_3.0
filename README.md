@@ -1,7 +1,7 @@
 # QTXNetwork_3.0
 
 ## Getting Started
-Check [QTXNetwork4.0 wiki](https://github.com/Zhutn/QTXNetwork3.0/wiki) for kicking off.
+Check [QTXNetwork3.0 wiki](https://github.com/Zhutn/QTXNetwork3.0/wiki) for kicking off.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Run with example data
