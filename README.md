@@ -42,6 +42,4 @@ cd GPU
 ./QTXNetwork --map ../example/sorghum.map --txt ../example/sorghum.txt --QTX 0 --out sorghum.pre
 ./QTXNetwork --map ../example/SimF2_600.Gen --txt ../example/SimF2_600.Phe --QTX 1 --out SimF2_600.pre
 ./QTXNetwork --map ../example/0pca.Girth18.gen --txt ../example/0pca.Girth18.phe --QTX 1 --out 0pca.Girth18.pre
-
-```
 ```
