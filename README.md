@@ -35,7 +35,7 @@ Using the GPU parallel version
 cd GPU
 ```
 
-**Examples forQTXNetwork3.0**
+**Examples for QTXNetwork3.0**
 
 ```
 ./QTXNetwork --map ../example/SimF2.map --txt ../example/SimF2.txt --QTX 0 --out SimF2.pre
