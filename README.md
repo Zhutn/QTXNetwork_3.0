@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Run with example data
 
-**Options for QTXNetwork4.0**
+**Options for QTXNetwork3.0**
 
 * `--map` genetic map for QTL or genotype for QTS.
 
@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * `--output-1D` Output the results of HendersonIII F values for 1D scan (--output-1D "any integer"). (default, False).
 
-**Examples forQTXNetwork4.0**
+**Examples forQTXNetwork3.0**
 
 ```
 ./QTXNetwork --map ../example/SimF2.map --txt ../example/SimF2.txt --QTX 0 --out SimF2.pre
